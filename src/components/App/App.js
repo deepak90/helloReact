@@ -15,9 +15,6 @@ const App = () => {
         <div className="container">
           <Homeroute />
         </div>
-        <footer className="footer">
-          <Footer/>
-        </footer>
       </div>
       
     );
